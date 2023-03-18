@@ -8,5 +8,5 @@ console.log("Hello world")
 5. $ git push : push to your remote repo eg gitHub
 6. $ git pull: pull latest from remote repo
 7. $ git clone : clone repo into a new dir
-
+8.$ git how to make commits
 */
